@@ -6,7 +6,7 @@ Here you can find all of our **resources, code and tasks** for programming the <
 ## Season: *2025-offseason*
 ### 💻 [`Code` in the 2025offseason repository](https://github.com/BrightonFRC/2025)
 <!--<sup>Code we wrote before the game release can be copied-and-pasted from [branches of the offseason repository](https://github.com/brightonfrc/2025/branches).</sup>-->
-### 📖 [`Wiki` to learn concepts, write code, and find many other resources](https://github.com/BrightonFRC/2026/wiki)
+### 📖 [`Wiki` to learn concepts, write code, and find many other resources](https://github.com/BrightonFRC/2025/wiki)
 <!--### ☑️ [`Tasks` in the 2025 Project](https://github.com/orgs/BrightonFRC/projects/3)-->
 ### 💬 [`Forums` in Discussions](https://github.com/orgs/brightonfrc/discussions)
 
